@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://linkdin.com/as/asd/sadasd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/mohammad_4_6_4"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:javad13832003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Javad83fadaii"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -20,7 +19,7 @@
 - 💡 عاشق **امتحان کردن چالش‌های جدید و حل مسائل پیچیده**
 - 💬 درباره **Python, Django, Backend Development** از من بپرسید
 - 📫 راه ارتباطی: **javad13832003@gmail.com**
-- ⚡ حقیقت جالب: **مدل‌های هوش مصنوعی مانند GPT-3 دارای ۱۷۵ میلیارد پارامتر هستند — این تقریباً ۱۰۰۰ برابر بیشتر از "نورون" در مغز زنبور عسل است، با این حال زنبورها هنوز هم می‌توانند کارهایی را انجام دهند که هوش مصنوعی قادر به انجام آن نیست، مانند مسیریابی در فضاهای سه‌بعدی پیچیده با مصرف انرژی نزدیک به صفر. الگوریتم‌های طبیعت هنوز از نظر کارایی شکست‌ناپذیر هستند! من روی تلاقی توسعه فول استک و هوش مصنوعی کار می‌کنم تا این شکاف رو پر کنم.** 🐝🤖
+- ⚡ حقیقت جالب: **فعلاً دوست دارم!** 😄
 
 ---
 
@@ -117,9 +116,6 @@ me.say_hi()
 <p align="center">
   <a href="mailto:javad13832003@gmail.com">
 <img src="https://img.shields.io/badge/Email-javad13832003%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/mohammad_4_6_4">
-<img src="https://img.shields.io/badge/Telegram-%40mohammad__4__6__4-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://linkdin.com/as/asd/sadasd">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
