@@ -1,137 +1,135 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Mohammad+Javad+Fadaei;Full+Stack+Developer;Problem+Solver+%26+Challenge+Seeker" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mohammad+Javad+Fadaei;Backend+Django+Developer;AI+%26+Problem+Solver" />
+
+<h3>🚀 Backend Developer | Python | Django | AI Enthusiast</h3>
+
+<a href="mailto:javad13832003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Javad83fadaii">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINK/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://t.me/mohammad_4_6_4">
+  <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Javad83fadaii&color=blueviolet&style=flat-square" />
+
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | Python Enthusiast | AI Learner</h3>
+---
+
+## 🧠 About Me
+
+- 🔭 Working on **Online Art Auction & E-commerce Platform**
+- 🌱 Learning **AI, Machine Learning, System Design**
+- 💡 Passionate about solving **complex backend problems**
+- ⚡ Love building **real-world scalable systems**
+- 🎯 Focus: Django, APIs, Architecture, Optimization
+
+---
+
+## 🧩 What I Do
+
+✔ Backend Development (Django / DRF)  
+✔ REST API Design & Development  
+✔ Database Architecture (MySQL / PostgreSQL)  
+✔ Authentication & Authorization Systems  
+✔ Real-time Auction Systems  
+✔ Telegram Bot Integrations  
+✔ Logging & Monitoring Systems  
+✔ Deployment on Linux Servers  
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎨 Art Auction Platform
+- Real-time auction system
+- Telegram bot integration
+- Advanced bidding logic
+- Custom admin panel
+- Full logging system
+
+### 🎓 Jebhe Nojavani Platform
+- Learning & e-commerce system
+- User ranking & scoring
+- Challenges & courses system
+- Community interaction features
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkdin.com/as/asd/sadasd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/mohammad_4_6_4"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:javad13832003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Javad83fadaii"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Javad83fadaii&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javad83fadaii&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 در حال کار روی **پلتفرم آنلاین کالکشن و مزایده آثار هنری**
-- 🌱 در حال یادگیری **هوش مصنوعی و Machine Learning**
-- 💡 عاشق **امتحان کردن چالش‌های جدید و حل مسائل پیچیده**
-- 💬 درباره **Python, Django, Backend Development** از من بپرسید
-- 📫 راه ارتباطی: **javad13832003@gmail.com**
-- ⚡ حقیقت جالب: **مدل‌های هوش مصنوعی مانند GPT-3 دارای ۱۷۵ میلیارد پارامتر هستند — این تقریباً ۱۰۰۰ برابر بیشتر از "نورون" در مغز زنبور عسل است، با این حال زنبورها هنوز هم می‌توانند کارهایی را انجام دهند که هوش مصنوعی قادر به انجام آن نیست، مانند مسیریابی در فضاهای سه‌بعدی پیچیده با مصرف انرژی نزدیک به صفر. الگوریتم‌های طبیعت هنوز از نظر کارایی شکست‌ناپذیر هستند! من روی تلاقی توسعه فول استک و هوش مصنوعی کار می‌کنم تا این شکاف رو پر کنم.** 🐝🤖
-
----
-
-### 🛠️ Tech Stack
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks & Libraries:**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javad83fadaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javad83fadaii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javad83fadaii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Javad83fadaii&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Javad83fadaii&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Javad83fadaii&theme=tokyonight&row=1"/>
 </p>
 
 ---
 
-### 📈 Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javad83fadaii&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javad83fadaii&theme=tokyo-night"/>
 </p>
 
 ---
 
-### 🎯 Current Focus
+## 🧠 Current Focus
+
 ```python
-class MohammadJavad:
-def __init__(self):
-self.name = "Mohammad Javad Fadaei Hosein"
-self.role = "Full Stack Developer"
-self.language = ["Python"]
-self.frameworks = ["Django", "Django REST Framework"]
-self.databases = ["PostgreSQL", "MySQL"]
-self.tools = ["Git", "Docker", "Linux"]
-self.current_project = "Online Art Collection & Auction Platform"
-self.learning = ["Artificial Intelligence", "Machine Learning"]
+class Developer:
+    def __init__(self):
+        self.name = "Mohammad Javad Fadaei"
+        self.role = "Backend Developer"
+        self.stack = ["Python", "Django", "DRF"]
+        self.databases = ["PostgreSQL", "MySQL"]
+        self.learning = ["AI", "System Design", "Scalability"]
 
-def say_hi(self):
-print("Thanks for visiting! Let's build something amazing together!")
+    def build(self):
+        return "Building scalable backend systems 🚀"
 
-me = MohammadJavad()
-me.say_hi()
-
----
-
-### 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:javad13832003@gmail.com">
-<img src="https://img.shields.io/badge/Email-javad13832003%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/mohammad_4_6_4">
-<img src="https://img.shields.io/badge/Telegram-%40mohammad__4__6__4-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://linkdin.com/as/asd/sadasd">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Javad83fadaii&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Javad83fadaii">Javad83fadaii</a> - Let's code the future together!</i>
-</p>
+me = Developer()
+print(me.build())
